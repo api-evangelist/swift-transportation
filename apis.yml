@@ -1,0 +1,7 @@
+aid: swift-transportation
+url: https://raw.githubusercontent.com/api-evangelist/swift-transportation/refs/heads/main/apis.yml
+modified: '2026-03-24'
+apis: []
+common:
+  - type: Website
+    url: https://www.swift-transportation.com
