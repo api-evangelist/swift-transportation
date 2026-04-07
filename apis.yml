@@ -1,7 +1,11 @@
 aid: swift-transportation
-url: https://raw.githubusercontent.com/api-evangelist/swift-transportation/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/swift-transportation/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.swift-transportation.com
+description: >-
+  Swift Transportation was the largest full truckload motor carrier in North America
+  before merging with Knight Transportation to form Knight-Swift Transportation.
