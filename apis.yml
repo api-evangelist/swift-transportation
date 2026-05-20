@@ -46,6 +46,8 @@ apis:
         url: https://www.cleo.com/trading-partner-network/knight-swift-transportation-holdings
 
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/swift-transportation
   - type: Website
     url: https://knight-swift.com
   - type: Website
