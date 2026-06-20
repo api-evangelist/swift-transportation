@@ -8,7 +8,7 @@ description: >-
   primarily through EDI for freight tendering, shipment status, and invoicing
   workflows with trading partners and shippers.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - EDI
   - Freight
