@@ -43,7 +43,7 @@ apis:
         url: https://www.knighttrans.com/
       - type: EDIDocumentation
         url: https://edixtb2b.com/partners/logistics/knight-swift-transportation
-      - type: Integration
+      - type: Integrations
         url: https://www.cleo.com/trading-partner-network/knight-swift-transportation-holdings
 
 common:
