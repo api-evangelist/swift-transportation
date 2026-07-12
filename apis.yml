@@ -47,6 +47,8 @@ apis:
         url: https://www.cleo.com/trading-partner-network/knight-swift-transportation-holdings
 
 common:
+  - type: DomainSecurity
+    url: security/swift-transportation-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/swift-transportation
   - type: Website
@@ -63,6 +65,8 @@ common:
     url: https://www.swifttrans.com/services/swift-logistics
   - type: DriverPortal
     url: https://www.knighttrans.com/driving/
+  - url: https://www.knighttrans.com/feed/
+    type: Blog
 
 maintainers:
   - FN: Kin Lane
