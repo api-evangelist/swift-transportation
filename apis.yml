@@ -8,7 +8,19 @@ description: >-
   primarily through EDI for freight tendering, shipment status, and invoicing
   workflows with trading partners and shippers.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/swift-transportation.png
 tags:
   - EDI
   - Freight
