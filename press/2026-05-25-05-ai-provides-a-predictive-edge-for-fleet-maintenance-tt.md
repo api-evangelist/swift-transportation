@@ -1,7 +1,9 @@
 ---
 title: AI Provides a Predictive Edge for Fleet Maintenance - TT
 url: https://www.ttnews.com/articles/ai-predictive-fleet-maintenance
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Swift Transportation" press release artificial intelligence'
 position: 5
 source: serpapi-google

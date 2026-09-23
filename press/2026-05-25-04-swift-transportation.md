@@ -1,7 +1,9 @@
 ---
 title: Swift Transportation
 url: https://www.facebook.com/DriveSwift/posts/we-are-thrilled-to-announce-swift-transportations-partnership-with-netradyneat-k/1082165473940179/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Swift Transportation" press release artificial intelligence'
 position: 4
 source: serpapi-google

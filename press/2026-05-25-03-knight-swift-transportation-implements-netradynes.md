@@ -1,7 +1,9 @@
 ---
 title: Knight-Swift Transportation Implements Netradyne's ...
 url: https://www.nasdaq.com/press-release/knight-swift-transportation-implements-netradynes-advanced-artificial-intelligence
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Swift Transportation" press release artificial intelligence'
 position: 3
 source: serpapi-google

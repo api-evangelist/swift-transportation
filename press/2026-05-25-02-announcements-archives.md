@@ -1,7 +1,9 @@
 ---
 title: Announcements Archives
 url: https://www.knighttrans.com/knight-life/category/announcements/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Swift Transportation" press release artificial intelligence'
 position: 2
 source: serpapi-google
