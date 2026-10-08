@@ -70,6 +70,12 @@ apis:
         url: https://www.cleo.com/trading-partner-network/knight-swift-transportation-holdings
 
 common:
+  - type: Plans
+    url: plans/swift-transportation-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/swift-transportation-rate-limits.yml
+  - type: FinOps
+    url: finops/swift-transportation-finops.yml
   - type: DomainSecurity
     url: security/swift-transportation-domain-security.yml
   - type: LinkedIn
